@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>计算器</title>
 </head>
+
 <body>
     <form name="form1">
         <center>
@@ -20,72 +21,101 @@
                     <td>
                         <input type="button" value="Calculate" onClick="equa1()">
                     </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" size=5 name="ba"> +
+                        <input type="text" name="bb" size=5>
+                    </td>
+                    <td> =
+                        <input type="text" name="total2" size=5>
+                    </td>
+                    <td>
+                        <input type="button" value="Calculate" onClick="equa2()">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" size=5 name="ca"> /
+                        <input type="text" name="cb" size=5>
+                    </td>
+                    <td>=
+                        <input type="text" name="total3" size=5>
+                    </td>
+                    <td>
+                        <input type="button" value="Calculate" onClick="equa3()">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" size=5 name="da"> *
+                        <input type="text" name="db" size=5>
+                    </td>
+                    <td> =
+                        <input type="text" name="total4" size=5>
+                    </td>
+                    <td>
+                        <input type="button" value="Calculate" onClick="equa4()">
+                    </td>
                     <tr>
-                        <td>
-                            <input type="text" size=5 name="ba"> +
-                            <input type="text" name="bb" size=5>
+                        <td colspan=3 align=center>
+                            <input type="reset" value="Reset">
                         </td>
-                        <td> =
-                            <input type="text" name="total2" size=5>
-                        </td>
-                        <td>
-                            <input type="button" value="Calculate" onClick="equa2()">
-                        </td>
-                        <tr>
-                            <td>
-                                <input type="text" size=5 name="ca"> /
-                                <input type="text" name="cb" size=5>
-                            </td>
-                            <td>=
-                                <input type="text" name="total3" size=5>
-                            </td>
-                            <td>
-                                <input type="button" value="Calculate" onClick="equa3()">
-                            </td>
-                            <tr>
-                                <td>
-                                    <input type="text" size=5 name="da"> *
-                                    <input type="text" name="db" size=5>
-                                </td>
-                                <td> =
-                                    <input type="text" name="total4" size=5>
-                                </td>
-                                <td>
-                                    <input type="button" value="Calculate" onClick="equa4()">
-                                </td>
-                                <tr>
-                                    <td colspan=3 align=center>
-                                        <input type="reset" value="Reset">
-                                    </td>
+                    </tr>
             </table>
     </form>
     <script language="JavaScript">
     function equa1() {
         a = document.form1.aa.value;
         b = document.form1.ab.value;
-        c = a - b;
-        document.form1.total1.value = c;
+        if(validateInput(a,b,"-")){
+            c = a - b;
+            document.form1.total1.value = c;
+        }        
     }
 
     function equa2() {
         a = document.form1.ba.value;
         b = document.form1.bb.value;
-        c = (a * 1) + (b * 1);
-        document.form1.total2.value = c;
+        if(validateInput(a,b,"+")){
+            c = (a * 1) + (b * 1);
+            document.form1.total2.value = c;
+        }        
     }
 
     function equa3() {
         a = document.form1.ca.value;
-        b = document.form1.cb.value;
-        c = a / b;
-        document.form1.total3.value = c;
+        b = document.form1.cb.value;        
+        if(validateInput(a,b,"/")){
+            c = a / b;
+            document.form1.total3.value = c;
+        }        
     }
 
     function equa4() {
         a = document.form1.da.value;
         b = document.form1.db.value;
-        c = a * b;
-        document.form1.total4.value = c;
+        if(validateInput(a,b,"*")){
+            c = a * b;
+            document.form1.total4.value = c;
+        }        
+    }
+
+    function validateInput(num1,num2,op){
+        var reg = /^-?\d+\.?\d*$/;
+        if(!num1 || !num2){
+            alert("操作数不可为空");
+            return false;
+        }else if(!reg.test(num1) || !reg.test(num2)){
+            alert("请输入数字");
+            return false;
+        }else{
+            if(Number(num2)===0 && op==='/'){
+                alert("除数不可以是0");
+                return false;
+            }
+        }
+        return true;
     }
     </script>
 </body>
