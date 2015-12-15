@@ -1,0 +1,11 @@
+package control;
+
+public class DebugTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Debug now.");
+		
+	}
+
+}
