@@ -1,7 +1,0 @@
-package com.yejia.entity;
-
-import java.io.Serializable;
-
-public class UserEntity implements Serializable {
-
-}
