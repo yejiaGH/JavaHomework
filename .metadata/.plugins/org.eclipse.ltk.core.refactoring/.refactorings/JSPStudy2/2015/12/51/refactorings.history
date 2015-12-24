@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSPStudy2/WebContent/04/header.html&apos; to &apos;header.txt&apos;" description="Rename resource &apos;header.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/04/header.html" name="header.txt" stamp="1450329527514" updateReferences="true"/>
+</session>
