@@ -1,0 +1,5 @@
+package com.yejia.entity;
+
+public class UserEntity {
+
+}

@@ -1,8 +1,14 @@
+<<<<<<< Updated upstream
 IMPORT_FILES_AND_FOLDERS_RELATIVE=true
 IMPORT_FILES_AND_FOLDERS_TYPE=7,1
 PROBLEMS_FILTERS_MIGRATE=true
 SHOW_LOCATION=true
 eclipse.preferences.version=1
 platformState=1450149877055
+=======
+PROBLEMS_FILTERS_MIGRATE=true
+eclipse.preferences.version=1
+platformState=1450520770459
+>>>>>>> Stashed changes
 quickStart=false
 tipsAndTricks=true
