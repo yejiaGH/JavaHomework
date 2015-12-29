@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyJavaChatClient.iml" filepath="$PROJECT_DIR$/MyJavaChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SyncTime.iml" filepath="$PROJECT_DIR$/SyncTime.iml" />
     </modules>
   </component>
 </project>

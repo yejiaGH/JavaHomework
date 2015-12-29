@@ -2,6 +2,8 @@ package com.yejia.testmyserversocket.main;
 
 import java.io.*;
 import java.net.Socket;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * Created by yejiapc on 15/12/10.
@@ -27,7 +29,13 @@ public class ChatSocket extends Thread {
 
     @Override
     public void run() {
-//        out("你已经连接到本服务器了");
+//        取得服务器时间
+        Date d1 = new Date(System.currentTimeMillis());
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+        String serverTime = sdf.format(d1);
+//        向客户端输出服务器端时间
+        out(serverTime);
+
         try {
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(
