@@ -21,22 +21,6 @@
 <entry path="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
 </endorsedDirs>
 </libraryInfo>
-<<<<<<< Updated upstream
-<libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home" version="1.7.0_75">
-<bootpath>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/resources.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/rt.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/sunrsasign.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jsse.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jce.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/charsets.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jfr.jar"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/classes"/>
-</bootpath>
-<extensionDirs>
-<entry path="/Users/yejiapc/Library/Java/Extensions"/>
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/ext"/>
-=======
 <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home" version="1.7.0_71">
 <bootpath>
 <entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/resources.jar"/>
@@ -51,18 +35,13 @@
 <extensionDirs>
 <entry path="/Users/yejia_alice/Library/Java/Extensions"/>
 <entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/ext"/>
->>>>>>> Stashed changes
 <entry path="/Library/Java/Extensions"/>
 <entry path="/Network/Library/Java/Extensions"/>
 <entry path="/System/Library/Java/Extensions"/>
 <entry path="/usr/lib/java"/>
 </extensionDirs>
 <endorsedDirs>
-<<<<<<< Updated upstream
-<entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/endorsed"/>
-=======
 <entry path="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/endorsed"/>
->>>>>>> Stashed changes
 </endorsedDirs>
 </libraryInfo>
 </libraryInfos>
