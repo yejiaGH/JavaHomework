@@ -1,6 +1,5 @@
+=\=\=\=\=\=\=
+<<<<<<<=Updated upstream
+>>>>>>>=Stashed changes
 eclipse.preferences.version=1
-<<<<<<< Updated upstream
-org.eclipse.rse.preferences.order.connections=yejiaPCdeMac-mini.Local
-=======
-org.eclipse.rse.preferences.order.connections=AliceHost.Local
->>>>>>> Stashed changes
+org.eclipse.rse.preferences.order.connections=AliceHost.Local;yejiaPCdeMac-mini.Local

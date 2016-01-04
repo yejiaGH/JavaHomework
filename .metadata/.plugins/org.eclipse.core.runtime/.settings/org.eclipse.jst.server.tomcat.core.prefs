@@ -1,6 +1,5 @@
+=\=\=\=\=\=\=
+<<<<<<<=Updated upstream
+>>>>>>>=Stashed changes
 eclipse.preferences.version=1
-<<<<<<< Updated upstream
 locationorg.eclipse.jst.server.tomcat.runtime.80=/Users/yejiapc/Documents/java-resource/Tomcat
-=======
-locationorg.eclipse.jst.server.tomcat.runtime.80=/Users/yejia_alice/Documents/java-resource/apache-tomcat-8.0.26
->>>>>>> Stashed changes

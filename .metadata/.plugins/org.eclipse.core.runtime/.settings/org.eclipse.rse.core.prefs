@@ -1,10 +1,7 @@
-<<<<<<< Updated upstream
-eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=yejiapc
-useridperkey=yejiaPCdeMac-mini.Local\=yejiapc;
-=======
-activeuserprofiles=AliceHost;Team
+=\=\=\=\=\=\=
+<<<<<<<=Updated upstream
+>>>>>>>=Stashed changes
+activeuserprofiles=AliceHost;Team;yejiaPCdeMac-mini
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=yejia_alice
-useridperkey=AliceHost.Local\=yejia_alice;
->>>>>>> Stashed changes
+useridperkey=AliceHost.Local\=yejia_alice;yejiaPCdeMac-mini.Local\=yejia_alice;
