@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
-GitRepositoriesView.GitDirectories=/Users/yejiapc/GitHub/JavaHomework/.git\:
-=======
-GitRepositoriesView.GitDirectories=/Users/yejia_alice/GitHub/JavaHomework/.git\:
->>>>>>> Stashed changes
+=\=\=\=\=\=\=
+<<<<<<<=Updated upstream
+>>>>>>>=Stashed changes
+GitRepositoriesView.GitDirectories=/Users/yejia_alice/GitHub/JavaHomework/.git\:/Users/yejiapc/GitHub/JavaHomework/.git\:
 eclipse.preferences.version=1

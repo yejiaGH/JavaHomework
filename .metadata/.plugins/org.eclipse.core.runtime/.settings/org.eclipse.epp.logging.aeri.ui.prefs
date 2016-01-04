@@ -1,3 +1,7 @@
 action=IGNORE
+<<<<<<< HEAD
+=======
+configured=true
+>>>>>>> origin/master
 eclipse.preferences.version=1
 rememberSendAction=RESTART

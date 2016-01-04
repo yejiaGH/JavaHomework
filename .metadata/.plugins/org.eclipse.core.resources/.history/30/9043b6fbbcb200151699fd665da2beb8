@@ -1,0 +1,40 @@
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+
+public class CreateXML {
+
+	public static void main(String[] args) {
+		
+		try {
+			
+			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder builder = factory.newDocumentBuilder();
+			Document document = builder.newDocument();
+			Element root = document.createElement("Languages");
+			root.setAttribute("cat", "it");
+			
+			Element lan1 = document.createElement("lan");
+			lan1.setAttribute("id", "1");
+			
+			Element name1 = document.createElement("name");
+			name1.setTextContent("Java");
+			Element ide1 = document.createElement("ide");		
+			ide1.setTextContent("Eclipse");
+			
+			lan1.appendChild(name1);
+			lan1.appendChild(ide1);
+			
+			root.appendChild(lan1);
+			
+			document.appendChild(root);
+			
+		} catch (ParserConfigurationException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

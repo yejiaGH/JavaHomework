@@ -1,9 +1,7 @@
-<<<<<<< Updated upstream
-browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/Applications/Firefox.app" name\="Firefox"/>\n</web-browsers>
-eclipse.preferences.version=1
-internalWebBrowserHistory=http\://localhost\:8080/JSPStudy2/07/do_register.jsp|*|http\://localhost\:8080/JSPStudy2/07/register.jsp|*|http\://localhost\:8080/JSPStudy2/06/index.jsp|*|http\://localhost\:8080/JSPStudy2/05/index.jsp|*|http\://localhost\:8080/JSPStudy2/05/login.jsp|*|http\://localhost\:8080/JSPStudy2/04/include.jsp|*|http\://localhost\:8080/JSPStudy2/04/get_error.jsp|*|http\://localhost\:8080/JSPStudy2/04/page_directive.jsp|*|http\://localhost\:8080/JSPStudy2/hello.jsp|*|
-=======
+=\=\=\=\=\=\=
+<<<<<<<=Updated upstream
+>>>>>>>=Stashed changes
+browser-choice=0
 browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n</web-browsers>
 eclipse.preferences.version=1
 internalWebBrowserHistory=http\://localhost\:8080/Login/do_login.jsp|*|http\://localhost\:8080/Login/login.jsp|*|http\://localhost\:8080/JSPStudy2/07/do_register.jsp|*|http\://localhost\:8080/JSPStudy2/07/register.jsp|*|
->>>>>>> Stashed changes

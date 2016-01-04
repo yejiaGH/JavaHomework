@@ -2,4 +2,8 @@
 <<<<<<<=Updated upstream
 >>>>>>>=Stashed changes
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.rse.preferences.order.connections=AliceHost.Local
+=======
+org.eclipse.rse.preferences.order.connections=AliceHost.Local;yejiaPCdeMac-mini.Local
+>>>>>>> origin/master
