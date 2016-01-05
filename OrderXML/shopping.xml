@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shopping>
+<goods>
+<name>苹果电脑</name>
+<price>11000</price>
+<number>1</number>
+</goods>
+<goods>
+<name>苹果手机</name>
+<price>5400</price>
+<number>2</number>
+</goods>
+</shopping>

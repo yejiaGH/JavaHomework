@@ -1,0 +1,16 @@
+package com.yejia.planegenerator.airplane;
+
+// 飞机类
+public class AirPlane {
+//	类成员：型号
+	private String AirPlaneType;
+	
+	public AirPlane(String AirPlaneType){
+		this.AirPlaneType = AirPlaneType;
+	}
+	
+////	获取飞机型号的方法
+//	public String getAirPlaneType(){
+//		return this.AirPlaneType;
+//	}
+}

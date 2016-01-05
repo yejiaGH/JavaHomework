@@ -1,0 +1,6 @@
+package com.yejia.planegenerator.airplane;
+
+//麦道飞机
+public class MaidaoAirPlane  extends AirPlane implements IAirPlane{
+
+}
