@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/yejia_alice/Downloads/设计模式之代理模式/源码/agentmode"/>
 			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestDom4j"/>
 			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestCreateXML"/>
 			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestReadXML"/>
