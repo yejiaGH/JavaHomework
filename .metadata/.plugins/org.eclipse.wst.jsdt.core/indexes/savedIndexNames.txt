@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 INDEX VERSION 1.3+/Users/yejiapc/GitHub/JavaHomework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 3032500082.index
 4193282382.index
@@ -15,6 +16,8 @@ INDEX VERSION 1.3+/Users/yejiapc/GitHub/JavaHomework/.metadata/.plugins/org.ecli
 =======
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
 INDEX VERSION 1.3+/Users/yejia_alice/GitHub/JavaHomework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 154928770.index
 754027466.index
@@ -23,6 +26,9 @@ INDEX VERSION 1.3+/Users/yejia_alice/GitHub/JavaHomework/.metadata/.plugins/org.
 1792900615.index
 1296119835.index
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master

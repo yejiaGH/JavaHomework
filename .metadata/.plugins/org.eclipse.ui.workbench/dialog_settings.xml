@@ -2,6 +2,11 @@
 <section name="Workbench">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	<section name="FileSystemImportWizard">
+	</section>
+>>>>>>> origin/master
 =======
 	<section name="FileSystemImportWizard">
 	</section>
@@ -25,6 +30,7 @@
 	<section name="WorkbenchPreferenceDialogSettings">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<item value="111" key="DIALOG_Y_ORIGIN"/>
 		<item value="-86" key="DIALOG_X_ORIGIN"/>
 	</section>
@@ -36,6 +42,11 @@
 		<item value="-23" key="DIALOG_Y_ORIGIN"/>
 		<item value="7" key="DIALOG_X_ORIGIN"/>
 	</section>
+=======
+		<item value="-23" key="DIALOG_Y_ORIGIN"/>
+		<item value="7" key="DIALOG_X_ORIGIN"/>
+	</section>
+>>>>>>> origin/master
 =======
 		<item value="-23" key="DIALOG_Y_ORIGIN"/>
 		<item value="7" key="DIALOG_X_ORIGIN"/>

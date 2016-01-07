@@ -2,9 +2,12 @@
 <qualifiedTypeNameHistroy>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
 <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
 =======
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 <fullyQualifiedTypeName name="javax.swing.text.Document"/>
@@ -14,6 +17,9 @@
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.lang.Float"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
@@ -25,6 +31,7 @@
 <fullyQualifiedTypeName name="javax.xml.transform.Transformer"/>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="javax.xml.transform.stream.StreamResult"/>
 <fullyQualifiedTypeName name="java.io.StringWriter"/>
 <fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
@@ -32,6 +39,20 @@
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="org.dom4j.Document"/>
 <fullyQualifiedTypeName name="org.dom4j.DocumentHelper"/>
+=======
+<fullyQualifiedTypeName name="java.io.StringWriter"/>
+<fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="javax.xml.transform.stream.StreamResult"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.airplane.BoyinAirPlane"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.airplane.MaidaoAirPlane"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.test.MyThread"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.simplefactory.AirPlaneFactory"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.airplane.AirPlane"/>
+<fullyQualifiedTypeName name="com.yejia.planegenerator.airplane.IAirPlane"/>
+>>>>>>> origin/master
 =======
 <fullyQualifiedTypeName name="java.io.StringWriter"/>
 <fullyQualifiedTypeName name="javax.xml.transform.dom.DOMSource"/>
