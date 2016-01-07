@@ -1,0 +1,7 @@
+
+public class Goods implements IGoods{
+	String name;
+	float price;
+	int number;
+	float total;
+}

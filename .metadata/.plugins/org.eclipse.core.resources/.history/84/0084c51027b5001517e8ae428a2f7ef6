@@ -1,0 +1,6 @@
+package com.yejia.haitao.buyer;
+
+// 抽象买家
+public interface IBuyer{
+	void request();
+}

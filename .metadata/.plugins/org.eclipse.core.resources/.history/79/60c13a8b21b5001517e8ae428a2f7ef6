@@ -1,0 +1,11 @@
+/**
+ * 真实角色： 小明
+ * @author yejiapc
+ *
+ */
+public class XiaoMing implements IBuyer{
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

@@ -1,0 +1,30 @@
+
+public class RealBuyer implements IBuyer {
+//	真实客户的姓名
+	private String buyerName;
+	private Goods[] shoppingList;
+	
+	public RealBuyer(String buyerName, Goods[] shoppingList) {
+		this.buyerName = buyerName;
+		this.shoppingList = shoppingList;
+	}	
+	
+	@Override
+	public void request() {
+		System.out.println("我是真客户:"+buyerName+"，我要海涛商品:"+getName());
+		
+	}
+
+	@Override
+	public String getName() {
+		String goodsName="";
+		for(int i = 0; i<shoppingList.length; i++){
+			goodsName+=shoppingList[i].getName();
+			if(i<shoppingList.length-1){
+				goodsName +=", ";
+			}
+		}
+		return goodsName;
+	}
+
+}

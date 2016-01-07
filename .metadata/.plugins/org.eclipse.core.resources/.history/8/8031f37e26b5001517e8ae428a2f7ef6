@@ -1,0 +1,15 @@
+
+public class MainTest {
+//	客户端调用
+	public static void main(String[] args) {
+		
+		Goods iPhone = new Goods("iPhone6s");
+		Goods channel = new Goods("channel");
+		Goods[] shoppingList = new Goods[]{iPhone,channel};
+		
+		RealBuyer xiaoming = new RealBuyer("小明", shoppingList);
+		
+		ProxyBuyer xiaohong = new ProxyBuyer(xiaoming);
+		xiaohong.request();
+	}
+}

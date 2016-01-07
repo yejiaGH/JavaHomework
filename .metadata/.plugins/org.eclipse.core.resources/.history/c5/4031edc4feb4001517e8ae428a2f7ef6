@@ -1,0 +1,8 @@
+/**
+ * 代理角色：小红
+ * @author yejiapc
+ *
+ */
+public class XiaoHong implements IBuyer{
+
+}
