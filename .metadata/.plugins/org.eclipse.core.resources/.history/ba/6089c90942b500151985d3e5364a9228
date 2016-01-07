@@ -1,0 +1,17 @@
+package com.yejia.haitao.goods;
+
+public class Channel implements IGoods{
+
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public float getPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

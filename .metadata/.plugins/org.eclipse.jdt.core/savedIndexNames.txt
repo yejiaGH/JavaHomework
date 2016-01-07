@@ -1,45 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-INDEX VERSION 1.127+/Users/yejiapc/GitHub/JavaHomework/.metadata/.plugins/org.eclipse.jdt.core
-3130764270.index
-1059992049.index
-622697483.index
-2530698422.index
-727891449.index
-2638667710.index
-1401657933.index
-134234297.index
-1499903720.index
-1296119835.index
-1829473975.index
-358572939.index
-2879035435.index
-3210446324.index
-3580641302.index
-1251132556.index
-712740937.index
-2146522113.index
-3710976018.index
-1212928783.index
-2508807599.index
-883816014.index
-3108682167.index
-2063187296.index
-1174803597.index
-1742541320.index
-2442120023.index
-3760191057.index
-746490366.index
-3715323627.index
-1839391377.index
-280595176.index
-=======
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
 INDEX VERSION 1.127+/Users/yejia_alice/GitHub/JavaHomework/.metadata/.plugins/org.eclipse.jdt.core
+1401657933.index
 1805178370.index
 746490366.index
 1296119835.index
@@ -48,14 +8,4 @@ INDEX VERSION 1.127+/Users/yejia_alice/GitHub/JavaHomework/.metadata/.plugins/or
 3760191057.index
 2879035435.index
 1059992049.index
-<<<<<<< HEAD
 2638667710.index
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
->>>>>>> origin/master

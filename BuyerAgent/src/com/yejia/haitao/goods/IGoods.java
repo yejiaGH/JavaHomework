@@ -1,5 +1,4 @@
 package com.yejia.haitao.goods;
-import java.awt.geom.FlatteningPathIterator;
 
 // 海淘商品的实现接口
 public interface IGoods {
