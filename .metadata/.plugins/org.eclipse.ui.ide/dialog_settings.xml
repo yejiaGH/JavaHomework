@@ -1,24 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-<<<<<<< Updated upstream
-	<section name="NewWizardAction">
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/master
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="/Users/yejia_alice/GitHub/JavaHomework/JSPStudy2"/>
+			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestDom4j"/>
+			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestCreateXML"/>
+			<item value="/Users/yejia_alice/GitHub/JavaHomework/TestReadXML"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
 	</section>
+>>>>>>> origin/master
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.wst.web.ui"/>
 		</list>
->>>>>>> Stashed changes
+<<<<<<< HEAD
+<<<<<<< HEAD
+	</section>
+	<section name="CleanDialogSettings">
+		<item value="484" key="DIALOG_WIDTH"/>
+		<item value="506" key="DIALOG_Y_ORIGIN"/>
+		<item value="354" key="DIALOG_HEIGHT"/>
+		<item value="986" key="DIALOG_X_ORIGIN"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+=======
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
 	</section>
 </section>

@@ -1,0 +1,27 @@
+
+public class Goods implements IGoods{
+	String name;
+	float price;
+	int number;
+	float total;
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	@Override
+	public int getNumber() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public float getPrice() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Override
+	public float getTotal() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+}

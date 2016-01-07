@@ -1,0 +1,23 @@
+package com.yejia.planegenerator.simplefactory;
+
+import com.yejia.planegenerator.airplane.AirPlane;
+
+public class AirPlaneFactory {
+	
+	public AirPlane build(String airPlaneType){
+		AirPlane plane = null;
+		
+		switch (airPlaneType) {
+		case "74E":
+			
+			break;
+		case "M11":
+			
+			break;
+		default:
+			break;
+		}
+		
+		return plane;
+	}
+}

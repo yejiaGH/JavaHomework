@@ -1,0 +1,13 @@
+
+public class Goods implements IGoods{
+	private String name;
+
+	public Goods(String name){
+		this.name = name;
+	}
+	
+	@Override
+	public String getName() {
+		return name;
+	}
+}

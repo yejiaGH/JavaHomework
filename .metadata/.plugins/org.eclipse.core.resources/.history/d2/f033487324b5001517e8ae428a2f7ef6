@@ -1,0 +1,9 @@
+import java.awt.geom.FlatteningPathIterator;
+
+public interface IGoods {
+	String getName();
+	float getPrice();
+	
+	void setName(String name);
+	void setPrice(float price);
+}

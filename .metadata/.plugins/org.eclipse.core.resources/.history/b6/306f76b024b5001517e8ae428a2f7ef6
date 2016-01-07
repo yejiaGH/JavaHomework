@@ -1,0 +1,9 @@
+
+public class Goods implements IGoods{
+	String name;
+
+	@Override
+	public String getName() {
+		return name;
+	}
+}

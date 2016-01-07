@@ -1,0 +1,5 @@
+package com.yejia.plane.simplefactory;
+
+public class AirPlaneFactory {
+	
+}

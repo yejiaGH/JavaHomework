@@ -1,0 +1,13 @@
+
+public class RealBuyer implements IBuyer {
+	private String name;
+	public RealBuyer(String name) {
+		this.name = name;
+	}
+	@Override
+	public void request() {
+		System.out.println("我是真客户，我要海涛商品");
+		
+	}
+
+}

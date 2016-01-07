@@ -1,0 +1,41 @@
+package com.yejia.haitao.buyer;
+import com.yejia.haitao.goods.Goods;
+
+public class RealBuyer implements IBuyer {
+//	真实客户的姓名
+	private String buyerName;
+//	海淘购物清单
+	private Goods[] shoppingList;
+	
+	public RealBuyer(String buyerName, Goods[] shoppingList) {
+		this.buyerName = buyerName;
+		this.shoppingList = shoppingList;
+	}	
+	
+//	真实用户请求购买
+	@Override
+	public void request() {
+		System.out.println("我是真客户:"+buyerName+"，我要海淘");
+		System.out.println("商品信息："+getInfo());
+	}
+
+	private String getInfo(){
+		String goodsInfo="";
+		for(int i = 0; i<shoppingList.length; i++){
+			
+			
+		}
+		return goodsInfo;
+	}
+//	真实用户实现获取海淘商品名称的功能
+	public String getName() {
+		String goodsName="";
+//		for(int i = 0; i<shoppingList.length; i++){
+//			goodsName+=shoppingList[i].getName();
+//			if(i<shoppingList.length-1){
+//				goodsName +=", ";
+//			}
+//		}
+		return goodsName;
+	}
+}

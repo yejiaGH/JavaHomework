@@ -1,0 +1,5 @@
+package com.yejia.haitao.buyer;
+
+public interface IBuyer{
+	void request();
+}

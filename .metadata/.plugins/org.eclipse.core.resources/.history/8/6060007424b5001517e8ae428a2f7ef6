@@ -1,0 +1,26 @@
+
+public class Goods implements IGoods{
+	String name;
+	float price;
+
+	@Override
+	public String getName() {
+		return name;
+	}
+
+	@Override
+	public float getPrice() {
+		return price;
+	}
+
+	@Override
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public void setPrice(float price) {
+		this.price = price;
+	}
+	
+}

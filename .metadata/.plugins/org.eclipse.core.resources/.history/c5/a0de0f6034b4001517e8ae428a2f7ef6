@@ -1,0 +1,11 @@
+package com.java.jikexueyuan.agentmode.rmi;
+
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+// 接口扩展接口
+public interface MyRemote extends Remote{
+
+	public String sayHello() throws RemoteException;
+	
+}

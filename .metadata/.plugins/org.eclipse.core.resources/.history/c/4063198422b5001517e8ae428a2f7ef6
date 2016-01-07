@@ -1,0 +1,20 @@
+/**
+ * 代理角色：小红
+ * @author yejiapc
+ *
+ */
+public class XiaoHong implements IBuyer{
+	
+//	以真实角色作为代理角色的属性
+	private XiaoMing realBuyer;
+	
+	public XiaoHong(XiaoMing ex) {
+		
+	}
+	@Override
+	public void request() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

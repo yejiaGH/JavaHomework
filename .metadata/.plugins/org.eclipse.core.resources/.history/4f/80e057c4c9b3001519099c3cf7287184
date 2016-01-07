@@ -1,0 +1,11 @@
+package com.yejia.planegenerator.test;
+
+// 测试代码入口
+public class TestCases {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

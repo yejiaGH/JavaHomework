@@ -1,0 +1,5 @@
+package com.yejia.planegenerator.airplane;
+
+public interface IAirPlane {
+	abstract String getAirPlaneType();
+}

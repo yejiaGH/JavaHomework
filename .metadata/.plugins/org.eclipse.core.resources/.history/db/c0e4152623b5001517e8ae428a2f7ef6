@@ -1,0 +1,7 @@
+
+public class ProxyBuyer {
+	// 以真实角色作为代理角色的属性
+	private RealBuyer realBuyer;
+	
+	
+}

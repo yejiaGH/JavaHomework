@@ -1,0 +1,19 @@
+
+public class ProxyBuyer implements IBuyer{
+	// 以真实角色作为代理角色的属性
+	private RealBuyer realBuyer;
+	
+	public ProxyBuyer(RealBuyer realBuyer){
+		this.realBuyer = realBuyer;
+	}
+
+	@Override
+	  // 该方法封装了真实对象的request方法
+	public void request() {
+//		preRequest();
+		realBuyer.request();// 此处执行真实对象的request方法
+//		postRequest
+	}
+	
+	
+}
