@@ -3,4 +3,4 @@
 >>>>>>>=Stashed changes
 eclipse.preferences.version=1
 module-start-timeout=300000
-runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v8.0" location\="/Users/yejiapc/Documents/java-resource/Tomcat" name\="Apache Tomcat v8.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.80" timestamp\="1"/>\n</runtimes>\n
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v8.0" location\="/Users/yejia_alice/Documents/java-resource/apache-tomcat-8.0.26" name\="Apache Tomcat v8.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.80" timestamp\="2"/>\n</runtimes>\n

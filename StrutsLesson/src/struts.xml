@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置根元素 -->
+<struts>
+
+    <!-- 第一步 导入相关jar包
+    	 第二步 复制struts.xml文件到项目中
+    	 第三步 在web.xml文件中加入过滤器代码
+     -->
+	
+	<!-- 该标签 用于创建一个JavaBean实例 -->
+	<bean class=""></bean>
+    <!-- Add packages here -->
+
+</struts>

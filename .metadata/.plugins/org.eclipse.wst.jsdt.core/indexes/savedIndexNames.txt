@@ -1,7 +1,3 @@
 INDEX VERSION 1.3+/Users/yejia_alice/GitHub/JavaHomework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-154928770.index
-754027466.index
-196623749.index
-1715866887.index
-1792900615.index
+1835804490.index
 1296119835.index
