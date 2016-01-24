@@ -1,6 +1,0 @@
-package com.yejia.planegenerator.airplane;
-
-public interface IAirPlane {
-//	获取飞机型号的方法
-	abstract String getAirPlaneType();
-}

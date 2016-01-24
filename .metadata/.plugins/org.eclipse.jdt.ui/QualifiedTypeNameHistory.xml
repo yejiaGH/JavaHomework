@@ -5,4 +5,12 @@
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="com.yejia.haitao.goods.IGoods"/>
 <fullyQualifiedTypeName name="com.yejia.haitao.goods.IPhone"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.yejia.servelet.LoginServelet"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.Class.Method"/>
+<fullyQualifiedTypeName name="com.yejia.servlet.BaseServlet"/>
+<fullyQualifiedTypeName name="com.yejia.pojo.Users"/>
 </qualifiedTypeNameHistroy>

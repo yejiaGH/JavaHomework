@@ -1,8 +1,0 @@
-#Tomcat publish data
-<<<<<<< Updated upstream
-#Thu Dec 17 13:51:19 CST 2015
-org.eclipse.jst.jee.server\:/binary\:/Users/yejiapc/GitHub/JavaHomework/JSPStudy2/WebContent/JSPStudy2.war=JSPStudy2.war
-=======
-#Sun Dec 20 13:37:39 CST 2015
-org.eclipse.jst.jee.server\:/binary\:/Users/yejia_alice/GitHub/JavaHomework/JSPStudy2/WebContent/JSPStudy2.war=JSPStudy2.war
->>>>>>> Stashed changes

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<!-- 配置根元素 -->
+<struts>
+	
+    <!-- 第一步 导入相关jar包
+    	 第二步 复制struts.xml文件到项目中
+    	 第三步 在web.xml文件中加入过滤器代码
+     -->
+	
+	<!-- 该标签 用于创建一个JavaBean实例 -->
+	<!-- <bean class=""></bean> -->
+	<!-- constant标签 用于Struts2默认行为标签 -->
+	<!-- 该标签 包标签，用于区分不同的请求文件的标签，比方说网站前台请求 网站后台请求 -->
+	<!-- <package name=""></package> -->
+	<!-- 该标签 用于引入其他的xml配置文件 -->
+	<!-- <include file=""></include> -->
+	<!-- 配置web默认编码集，相当于HttpServletRequest.setCharacterEncoding方法 -->
+	<constant name="struts.i18n.encoding" value="UTF-8"></constant>	
+	<!-- 默认Struts2的请求后缀是.action，也就是说我们不配置该元素，action/do都可以 -->
+	<constant name="struts.action.extension" value="do"></constant>
+	<!-- 设置浏览器是否缓存静态内容，默认值为true，在我们开发阶段建议关闭，防止修改后测试不到 -->
+	<constant name="struts.serve.static.browserCache" value="false"></constant>
+</struts>

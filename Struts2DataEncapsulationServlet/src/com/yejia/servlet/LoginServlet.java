@@ -1,0 +1,25 @@
+package com.yejia.servlet;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.yejia.pojo.Users;
+
+import java.io.IOException;
+
+public class LoginServlet extends BaseServlet{
+	private Users users = new Users();
+	public String execute() throws Exception {
+		System.out.println("登录LoginServlet");
+		System.out.println(users.getUsername());
+		System.out.println(users.getPassword());
+		return "/index.jsp";
+	}
+
+	public Users getModel() {
+		// TODO Auto-generated method stub
+		return users;
+	}	
+}

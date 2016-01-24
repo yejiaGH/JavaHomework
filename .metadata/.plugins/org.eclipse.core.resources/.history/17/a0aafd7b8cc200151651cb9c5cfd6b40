@@ -1,0 +1,5 @@
+package com.yejia.servlet;
+
+public class BaseServlet {
+
+}
